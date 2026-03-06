@@ -10,4 +10,9 @@ def soma(*args):
         return total
     except Exception as e:
         print(str(e))
-                
+        print(*30)
+        
+
+
+
+
